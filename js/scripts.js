@@ -36,7 +36,7 @@ let types = {
 | AJAX
 |--------------------------------------------------------------------------
 */
-let baseURL = 'https://opendb.com/api.php';
+let baseURL = 'https://api.punkapi.com/v2/beers';
 
 $('#quiz-selector').on('submit', function(e) {
    e.preventDefault();
