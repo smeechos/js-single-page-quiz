@@ -36,7 +36,7 @@ let types = {
 | AJAX
 |--------------------------------------------------------------------------
 */
-let baseURL = 'https://opentdbz.com/api.php';
+let baseURL = 'https://opendb.com/api.php';
 
 $('#quiz-selector').on('submit', function(e) {
    e.preventDefault();
